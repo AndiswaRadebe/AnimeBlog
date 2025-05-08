@@ -1,1 +1,1 @@
-# AnimeBlog
+# AnimeBlog created using PHP and MySql
